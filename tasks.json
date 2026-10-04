@@ -1,0 +1,20 @@
+[
+    {
+        "task": "python",
+        "completed": true,
+        "priority": "Medium",
+        "due": ""
+    },
+    {
+        "task": "complete college assignment",
+        "completed": true,
+        "priority": "Medium",
+        "due": ""
+    },
+    {
+        "task": "Finish assignment",
+        "completed": true,
+        "priority": "High",
+        "due": "2026-10-10"
+    }
+]
