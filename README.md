@@ -87,3 +87,6 @@ This project helped me practice:
 **Charan**
 
 Built as a Python learning project.
+## Application Screenshot
+
+![Python To-Do List App](screenshots/todo-app.jpg)
